@@ -1,2 +1,2 @@
-# testRepo
-For JHU DS class
+# Coursera Submissions
+For JHU's DS class
